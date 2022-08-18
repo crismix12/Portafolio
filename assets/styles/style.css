@@ -366,12 +366,7 @@ img{
 }
 
 .section--portfolio{
-    /* display: flex; */
-    /* flex-direction: column; */
     padding: 1rem;
-    /* justify-content: space-between; */
-    /* row-gap: 2em; */
-    /* height: 50vh; */
 }
 
 .section--portfolio-imgContainer{
@@ -380,8 +375,6 @@ img{
     display: flex;
     flex-direction: column;
     row-gap: 2em;
-    /* gap: 12px; */
-    /* padding-bottom: 1rem; */
 }
 
 .footer--contacto{
