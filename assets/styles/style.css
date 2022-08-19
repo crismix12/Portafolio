@@ -470,7 +470,7 @@ img{
         position: fixed;
         height: 30px;
         background-color: transparent;
-        top: 30px;
+        top: 0;
         left: 0;
         width: 100%;
         min-height: 10px;
